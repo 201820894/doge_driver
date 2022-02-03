@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./devel/lib/python2.7/dist-packages"
+    ],
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
